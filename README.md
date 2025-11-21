@@ -55,6 +55,8 @@ AI自动生成：
 ![Part3 Image 1](./AI_Story/man.jpg) ![Part3 Image 1](./AI_Story/woman.jpg)
 
 
+<video src="./AI_Story/1.mp4" controls></video>
+
 https://github.com/user-attachments/assets/71882522-d648-49d5-808d-e52512b7b655
 https://github.com/user-attachments/assets/8e7a748e-b6dd-4886-8063-f9aa5da4bf91
 https://github.com/user-attachments/assets/2229a8a2-38bd-4cb7-81b9-37d948c69057
