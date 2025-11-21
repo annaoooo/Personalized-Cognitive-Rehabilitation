@@ -54,21 +54,16 @@ AI自动生成：
 
 ![Part3 Image 1](./AI_Story/man.jpg) ![Part3 Image 1](./AI_Story/woman.jpg)
 
-| 场景1 | 场景2 | 场景3 | 场景4 | 场景5 |
-|---|---|---|---|---|
-| [<video src="./AI_Story/1.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/db0862a8-7e56-4ce9-b15c-f4c05058a965) 公园小径上散步 | [<video src="./AI_Story/2.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/11cf0aba-b857-40d1-a1ef-154335aa3a41) 池塘边停下观察 | [<video src="./AI_Story/3.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/a9423adb-592a-4f29-ab1c-abb1578e7d9a)拿面包喂鸭子 | [<video src="./AI_Story/4.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/a9423adb-592a-4f29-ab1c-abb1578e7d9a)看鸭子吃食物 | 
-https://github.com/user-attachments/assets/7ae9e310-391c-40b6-a455-a1719245ce32 鸭子聚集过来 |
 
+https://github.com/user-attachments/assets/71882522-d648-49d5-808d-e52512b7b655
+https://github.com/user-attachments/assets/8e7a748e-b6dd-4886-8063-f9aa5da4bf91
+https://github.com/user-attachments/assets/2229a8a2-38bd-4cb7-81b9-37d948c69057
+https://github.com/user-attachments/assets/94f1af6c-e49e-4dfa-8dbc-39f78a1d4913
+https://github.com/user-attachments/assets/6bacb079-0182-4ec3-a569-1d001deca147
+https://github.com/user-attachments/assets/44a1d27b-5936-4a30-8689-a368f8750288
+https://github.com/user-attachments/assets/810afcd7-7aa5-4170-82c2-292eb18aaf69
+https://github.com/user-attachments/assets/b86160e5-fce0-4666-96a1-cf5d5239754f
+https://github.com/user-attachments/assets/65e3399a-a936-4d28-8de6-49c86936e123
+https://github.com/user-attachments/assets/e5767a2c-4a6d-41ec-b22e-493b95b0c338
 
-
-
-
-
-https://github.com/user-attachments/assets/6257fe0f-dd43-43f0-971d-da306cff55ff
-
-
-
-| 场景6 | 场景7 | 场景8 | 场景9 | 场景10 |
-|---|---|---|---|---|
-| [<video src="./AI_Story/6.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/d0f0df0f-b496-4968-bee4-b84a778caea0)与家人愉快聊天 | [<video src="./AI_Story/7.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/6c606487-831d-4b53-a805-68c6d8c28212)池塘边沉思 | [<video src="./AI_Story/8.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/fe3d4382-0a5b-472a-b56b-477d2d47769e)挽着手结伴回家 | [<video src="./AI_Story/9.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/bdd9cf19-98f3-4f33-b412-d3b87c681c94)厨房准备晚餐 | [<video src="./AI_Story/10.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/3f036b5c-8689-4510-ac9c-f52f8140caae)餐桌边温暖互动 |
 
