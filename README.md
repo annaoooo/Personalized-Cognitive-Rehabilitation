@@ -34,7 +34,9 @@ Using a small number of patient photos and an identity-consistent personalized m
 
 With one click, the system generates the patient’s images across **four life stages**—childhood, youth, midlife, and older age—to support structured life-story recall.
 
-<img src="./image/age.png" width="650"/>
+<div align="center">
+  <img src="./image/age.png" width="650"/>
+</div>
 
 ---
 
@@ -46,8 +48,9 @@ With one click, the system generates the patient’s images across **four life s
 
 Automatically produces dozens of professional “spot-the-difference” image pairs for attention, visual search, and visuospatial training.
 
-<img src="./image/difference.png" width="650"/>
-
+<div align="center">
+  <img src="./image/difference.png" width="650"/>
+</div>
 ---
 
 ## 4. 多样化视觉刺激训练任务
@@ -64,8 +67,9 @@ The same generated materials can flexibly support multiple cognitive domains:
 * **执行功能 Executive Function**
 * **逻辑推理 Logical Reasoning**
 
-<img src="./image/diversity.png" width="650"/>
-
+<div align="center">
+  <img src="./image/diversity.png" width="650"/>
+</div>
 ---
 
 ## 5. 情感修复级内容生成
@@ -76,7 +80,9 @@ The same generated materials can flexibly support multiple cognitive domains:
 
 Generates emotionally meaningful “missing photographs,” such as wedding photos from youth or images with deceased loved ones, providing deep emotional comfort and memory activation.
 
-<img src="./image/wedding.png" width="750"/>
+<div align="center">
+  <img src="./image/wedding.png" width="750"/>
+</div>
 
 ---
 
@@ -88,7 +94,9 @@ Generates emotionally meaningful “missing photographs,” such as wedding phot
 
 Designed for patients with both cognitive and balance impairments, integrating visuospatial training, vestibular stimulation, proprioception, and sensory integration in immersive VR environments.
 
-<img src="./VR.gif?raw=true" width="600"/>
+<div align="center">
+  <img src="./VR.gif?raw=true" width="600"/>
+</div>
 
 ---
 
