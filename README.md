@@ -22,7 +22,7 @@
 
 ## Part 2：VR康复训练内容（平衡·视觉空间·前庭·本体·感统融合）
 
-[VR](./VR.gif)
+<video src="./VR.gif" width="700" autoplay loop muted playsinline></video>
 
 专为认知与平衡障碍患者设计的VR训练场景，融合视觉空间、前庭觉、本体觉、感统处理等多模态刺激，帮助患者在沉浸式环境中进行：
 - 动态平衡训练
@@ -48,19 +48,15 @@ AI自动生成：
 
 ### 示例故事：公园散步回忆（10场景）
 
-<div align="center">
+参考图像：
 
-<video src="./assets/AI_Story/1.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px; box-shadow:0 2px 10px rgba(0,0,0,0.2);"></video>
-<video src="./assets/AI_Story/2.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/3.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/4.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/5.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+![Part3 Image 1](./AI_Story/man.png) ![Part3 Image 1](./AI_Story/woman.png)
 
-<video src="./assets/AI_Story/6.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/7.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/8.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/9.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
-<video src="./assets/AI_Story/10.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+| 场景1 | 场景2 | 场景3 | 场景4 | 场景5 |
+|---|---|---|---|---|
+| <video src="./AI_Story/1.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>公园小径上散步 | <video src="./AI_Story/2.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>池塘边停下观察 | <video src="./AI_Story/3.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>拿面包喂鸭子 | <video src="./AI_Story/4.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>看鸭子吃食物 | <video src="./AI_Story/5.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>鸭子聚集过来 |
 
-</div>
+| 场景6 | 场景7 | 场景8 | 场景9 | 场景10 |
+|---|---|---|---|---|
+| <video src="./AI_Story/6.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>与家人愉快聊天 | <video src="./AI_Story/7.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>池塘边沉思 | <video src="./AI_Story/8.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>挽着手结伴回家 | <video src="./AI_Story/9.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>厨房准备晚餐 | <video src="./AI_Story/10.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>餐桌边温暖互动 |
 
