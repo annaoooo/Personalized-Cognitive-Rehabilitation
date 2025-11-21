@@ -24,7 +24,7 @@
 
 <video src="./VR.gif" width="700" autoplay loop muted playsinline></video>
 
-
+![Part2 Image](./image/image4.png)
 
 专为认知与平衡障碍患者设计的VR训练场景，融合视觉空间、前庭觉、本体觉、感统处理等多模态刺激，帮助患者在沉浸式环境中进行：
 - 动态平衡训练
@@ -50,22 +50,7 @@ AI自动生成：
 
 ### 示例故事：公园散步回忆（10场景）
 
-参考图像：
+![Part3 Image](./image/image3.png)
 
-![Part3 Image 1](./AI_Story/man.jpg) ![Part3 Image 1](./AI_Story/woman.jpg)
-
-
-<video src="./AI_Story/1.mp4" controls></video>
-
-https://github.com/user-attachments/assets/71882522-d648-49d5-808d-e52512b7b655
-https://github.com/user-attachments/assets/8e7a748e-b6dd-4886-8063-f9aa5da4bf91
-https://github.com/user-attachments/assets/2229a8a2-38bd-4cb7-81b9-37d948c69057
-https://github.com/user-attachments/assets/94f1af6c-e49e-4dfa-8dbc-39f78a1d4913
-https://github.com/user-attachments/assets/6bacb079-0182-4ec3-a569-1d001deca147
-https://github.com/user-attachments/assets/44a1d27b-5936-4a30-8689-a368f8750288
-https://github.com/user-attachments/assets/810afcd7-7aa5-4170-82c2-292eb18aaf69
-https://github.com/user-attachments/assets/b86160e5-fce0-4666-96a1-cf5d5239754f
-https://github.com/user-attachments/assets/65e3399a-a936-4d28-8de6-49c86936e123
-https://github.com/user-attachments/assets/e5767a2c-4a6d-41ec-b22e-493b95b0c338
 
 
