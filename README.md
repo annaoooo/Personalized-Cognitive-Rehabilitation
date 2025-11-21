@@ -10,7 +10,7 @@
 - 年龄定制化照片生成：生成不同年龄段（20岁、30岁、50岁等）的照片，帮助患者回忆人生不同阶段的自己与亲友
 - “找不同”注意力训练素材批量生成：通过图像编辑技术生成多组“找不同”素材，支持注意力集中与视觉搜索训练
 
-![Part1 Image 2](./image/image2.jpg)
+![Part1 Image 2](./image/image2.png)
 
 ① 为患者生成从未拍过的珍贵照片（如年轻时的结婚照、与已故亲人的合影等），提供强烈情感支持，显著激发回忆与积极情绪。
 
@@ -48,12 +48,19 @@ AI自动生成：
 
 ### 示例故事：公园散步回忆（10场景）
 
-| 场景1 | 场景2 | 场景3 | 场景4 | 场景5 |
-|---|---|---|---|---|
-| [![公园小径上散步](./assets/videos/scene1.jpg)](AI_Story/1.mp4) | [![池塘边停下观察](./assets/videos/scene2.jpg)](AI_Story/2.mp4) | [![拿面包喂鸭子](./assets/videos/scene3.jpg)](AI_Story/3.mp4) | [![看鸭子吃食物](./assets/videos/scene4.jpg)](AI_Story/4.mp4) | [![鸭子聚集过来](./assets/videos/scene5.jpg)](AI_Story/5.mp4) |
-| 公园小径上散步 | 池塘边停下观察 | 拿面包喂鸭子 | 看鸭子吃食物 | 鸭子聚集过来 |
+<div align="center">
 
-| 场景6 | 场景7 | 场景8 | 场景9 | 场景10 |
-|---|---|---|---|---|
-| [![与家人愉快聊天](./assets/videos/scene6.jpg)](AI_Story/6.mp4) | [![池塘边沉思](./assets/videos/scene7.jpg)](AI_Story/7.mp4) | [![挽着手结伴回家](./assets/videos/scene8.jpg)](AI_Story/8.mp4) | [![厨房准备晚餐](./assets/videos/scene9.jpg)](AI_Story/9.mp4) | [![餐桌边聊天](./assets/videos/scene10.jpg)](AI_Story/10.mp4) |
-| 与家人愉快聊天 | 池塘边停留沉思 | 挽着手结伴回家 | 厨房准备晚餐 | 餐桌边温暖互动 |
+<video src="./assets/AI_Story/1.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px; box-shadow:0 2px 10px rgba(0,0,0,0.2);"></video>
+<video src="./assets/AI_Story/2.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/3.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/4.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/5.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+
+<video src="./assets/AI_Story/6.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/7.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/8.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/9.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+<video src="./assets/AI_Story/10.mp4" autoplay loop muted playsinline width="18%" style="border-radius:10px; margin:4px;"></video>
+
+</div>
+
