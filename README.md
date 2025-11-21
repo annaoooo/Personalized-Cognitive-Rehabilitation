@@ -24,6 +24,8 @@
 
 <video src="./VR.gif" width="700" autoplay loop muted playsinline></video>
 
+
+
 专为认知与平衡障碍患者设计的VR训练场景，融合视觉空间、前庭觉、本体觉、感统处理等多模态刺激，帮助患者在沉浸式环境中进行：
 - 动态平衡训练
 - 头部-眼协调训练
@@ -50,13 +52,23 @@ AI自动生成：
 
 参考图像：
 
-![Part3 Image 1](./AI_Story/man.png) ![Part3 Image 1](./AI_Story/woman.png)
+![Part3 Image 1](./AI_Story/man.jpg) ![Part3 Image 1](./AI_Story/woman.jpg)
 
 | 场景1 | 场景2 | 场景3 | 场景4 | 场景5 |
 |---|---|---|---|---|
-| <video src="./AI_Story/1.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>公园小径上散步 | <video src="./AI_Story/2.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>池塘边停下观察 | <video src="./AI_Story/3.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>拿面包喂鸭子 | <video src="./AI_Story/4.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>看鸭子吃食物 | <video src="./AI_Story/5.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>鸭子聚集过来 |
+| [<video src="./AI_Story/1.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/db0862a8-7e56-4ce9-b15c-f4c05058a965) 公园小径上散步 | [<video src="./AI_Story/2.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/11cf0aba-b857-40d1-a1ef-154335aa3a41) 池塘边停下观察 | [<video src="./AI_Story/3.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/a9423adb-592a-4f29-ab1c-abb1578e7d9a)拿面包喂鸭子 | [<video src="./AI_Story/4.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/a9423adb-592a-4f29-ab1c-abb1578e7d9a)看鸭子吃食物 | 
+https://github.com/user-attachments/assets/7ae9e310-391c-40b6-a455-a1719245ce32 鸭子聚集过来 |
+
+
+
+
+
+
+https://github.com/user-attachments/assets/6257fe0f-dd43-43f0-971d-da306cff55ff
+
+
 
 | 场景6 | 场景7 | 场景8 | 场景9 | 场景10 |
 |---|---|---|---|---|
-| <video src="./AI_Story/6.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>与家人愉快聊天 | <video src="./AI_Story/7.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>池塘边沉思 | <video src="./AI_Story/8.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>挽着手结伴回家 | <video src="./AI_Story/9.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>厨房准备晚餐 | <video src="./AI_Story/10.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>餐桌边温暖互动 |
+| [<video src="./AI_Story/6.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/d0f0df0f-b496-4968-bee4-b84a778caea0)与家人愉快聊天 | [<video src="./AI_Story/7.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/6c606487-831d-4b53-a805-68c6d8c28212)池塘边沉思 | [<video src="./AI_Story/8.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/fe3d4382-0a5b-472a-b56b-477d2d47769e)挽着手结伴回家 | [<video src="./AI_Story/9.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/bdd9cf19-98f3-4f33-b412-d3b87c681c94)厨房准备晚餐 | [<video src="./AI_Story/10.mp4" width="280" height="280" autoplay loop muted playsinline controls></video><br>](https://github.com/user-attachments/assets/3f036b5c-8689-4510-ac9c-f52f8140caae)餐桌边温暖互动 |
 
