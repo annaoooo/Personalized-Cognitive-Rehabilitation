@@ -51,18 +51,11 @@
 #### 示例故事：公园散步的温馨回忆（10场景连续短视频）
 
 | 场景1 | 场景2 | 场景3 | 场景4 | 场景5 |
-| :--- | :--- | :--- | :--- | :--- |
-| <img src="./AI_Story/1.gif?raw=true" width="400"/> | <img src="./AI_Story/2.gif?raw=true" width="400"/> | <img src="./AI_Story/3.gif?raw=true" width="400"/> | <img src="./AI_Story/4.gif?raw=true" width="400"/> | <img src="./AI_Story/5.gif?raw=true" width="400"/> |
+| --- | --- | --- | --- | --- |
+| ![公园小径上散步](AI_Story/1.gif?raw=true) | ![池塘边停下观察](AI_Story/2.gif?raw=true) | ![拿面包喂鸭子](AI_Story/3.gif?raw=true) | ![看鸭子吃食物](AI_Story/4.gif?raw=true) | ![鸭子聚集过来](AI_Story/5.gif?raw=true) |
 | 公园小径上散步 | 池塘边停下观察 | 拿面包喂鸭子 | 看鸭子吃食物 | 鸭子聚集过来 |
 
 | 场景6 | 场景7 | 场景8 | 场景9 | 场景10 |
-| :--- | :--- | :--- | :--- | :--- |
-| <img src="./AI_Story/6.gif?raw=true" width="400"/> | <img src="./AI_Story/7.gif?raw=true" width="400"/> | <img src="./AI_Story/8.gif?raw=true" width="400"/> | <img src="./AI_Story/9.gif?raw=true" width="400"/> | <img src="./AI_Story/10.gif?raw=true" width="400"/> |
+| --- | --- | --- | --- | --- |
+| ![与家人愉快聊天](AI_Story/6.gif?raw=true) | ![池塘边停留沉思](AI_Story/7.gif?raw=true) | ![挽着手结伴回家](AI_Story/8.gif?raw=true) | ![厨房准备晚餐](AI_Story/9.gif?raw=true) | ![餐桌边温暖互动](AI_Story/10.gif?raw=true) |
 | 与家人愉快聊天 | 池塘边停留沉思 | 挽着手结伴回家 | 厨房准备晚餐 | 餐桌边温暖互动 |
-
-### 临床显著优势（已获患者与家属强烈正面反馈）
-- 基于**回忆疗法（Reminiscence Therapy）**的循证干预，对阿尔茨海默病患者情绪与认知功能改善显著
-- 视觉 + 听觉 + 亲人声音 + 叙事的多模态刺激，激活大脑多区域协同工作
-- 极高情感共鸣，患者常见反应：“这是我吗？” “他又回来陪我了……”（泪光与笑容并存）
-
-该系统让每一位患者都能拥有**真正属于自己的记忆疗愈内容**，大幅提升康复训练的依从性和实际效果。
