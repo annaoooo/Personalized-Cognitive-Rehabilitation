@@ -48,9 +48,23 @@ AI自动生成：
 
 ### 示例故事：公园散步回忆（10场景）
 
-![sence1](./AI_Story/1.gif?raw=true)
+![sence1](./AI_Story/1.gif?raw=true)   ![sence10](./AI_Story/10.gif?raw=true)  
 
-![Part3 Image](./image/image4.png)
+
+参考图像：
+![Part3 Image 1](./AI_Story/man.jpg) ![Part3 Image 2](./AI_Story/woman.jpg) 
+
+| 场景1 | 场景2 | 场景3 | 场景4 | 场景5 |
+| --- | --- | --- | --- | --- |
+| ![公园小径上散步](AI_Story/1.gif?raw=true) | ![池塘边停下观察](AI_Story/2.gif?raw=true) | ![拿面包喂鸭子](AI_Story/3.gif?raw=true) | ![看鸭子吃食物](AI_Story/4.gif?raw=true) | ![鸭子聚集过来](AI_Story/5.gif?raw=true) |
+| 公园小径上散步 | 池塘边停下观察 | 拿面包喂鸭子 | 看鸭子吃食物 | 鸭子聚集过来 |
+
+| 场景6 | 场景7 | 场景8 | 场景9 | 场景10 |
+| --- | --- | --- | --- | --- |
+| ![与家人愉快聊天](AI_Story/6.gif?raw=true) | ![池塘边停留沉思](AI_Story/7.gif?raw=true) | ![挽着手结伴回家](AI_Story/8.gif?raw=true) | ![厨房准备晚餐](AI_Story/9.gif?raw=true) | ![餐桌边温暖互动](AI_Story/10.gif?raw=true) |
+| 与家人愉快聊天 | 池塘边停留沉思 | 挽着手结伴回家 | 厨房准备晚餐 | 餐桌边温暖互动 |
+
+
 
 
 
