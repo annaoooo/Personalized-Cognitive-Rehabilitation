@@ -27,7 +27,7 @@
 ### 5. 情感修复级内容：生成“从未拍过的珍贵照片”
 为患者合成年轻时的结婚照、与已故亲人的合影等“缺失的记忆照片”，提供极强的情感支持与回忆触发。
 
-<img src="./image/wedding.png" alt="年轻时的结婚照（AI生成）" />
+<img src="./image/wedding.png" alt="年轻时的结婚照（AI生成）"  width="700" />
 
 ## Part 2：VR多感官认知与平衡康复训练
 
@@ -46,7 +46,7 @@
 完整、高情感共鸣的音视频回忆故事（含亲友声音旁白 + 患者本人形象）
 
 #### 参考人物
-<img src="./AI_Story/man.jpg" width="300"/> <img src="./AI_Story/woman.jpg" width="300"/>
+<img src="./AI_Story/man.jpg" width="200"/> <img src="./AI_Story/woman.jpg" width="200"/>
 
 #### 示例故事：公园散步的温馨回忆（10场景连续短视频）
 
