@@ -24,7 +24,7 @@
 
 <video src="./VR.gif" width="700" autoplay loop muted playsinline></video>
 
-![Part2 Image](./image/image4.png)
+![Part2 Image](./image/image3.png)
 
 专为认知与平衡障碍患者设计的VR训练场景，融合视觉空间、前庭觉、本体觉、感统处理等多模态刺激，帮助患者在沉浸式环境中进行：
 - 动态平衡训练
@@ -50,7 +50,7 @@ AI自动生成：
 
 ### 示例故事：公园散步回忆（10场景）
 
-![Part3 Image](./image/image3.png)
+![Part3 Image](./image/image4.png)
 
 
 
