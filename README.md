@@ -27,8 +27,6 @@
 
 ![VR cognitive rehabilitation demo](./VR.gif?raw=true)
 
-![Part2 Image](./image/image3.png)
-
 专为认知与平衡障碍患者设计的VR训练场景，融合视觉空间、前庭觉、本体觉、感统处理等多模态刺激，帮助患者在沉浸式环境中进行：
 - 动态平衡训练
 - 头部-眼协调训练
@@ -52,6 +50,8 @@ AI自动生成：
 - 极高情感共鸣，患者常出现“这是我吗？”“他又回来陪我了”的强烈正面反应
 
 ### 示例故事：公园散步回忆（10场景）
+
+![sence1](./AI_Story/1.mp4?raw=true)
 
 ![Part3 Image](./image/image4.png)
 
