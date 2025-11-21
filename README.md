@@ -20,7 +20,9 @@ Leveraging multimodal personalized AI generation models, this system provides hi
 
 Using a small number of patient photos and an identity-consistent personalized model, the system generates high-fidelity images of the patient in **familiar daily-life scenes** (shopping, cooking, reading, walking, etc.), effectively triggering autobiographical memory.
 
-<img src="./image/sence.png" width="650"/>
+<div align="center">
+  <img src="./image/sence.png" width="650"/>
+</div>
 
 ---
 
