@@ -25,7 +25,7 @@
 
 ## Part 2：VR康复训练内容（平衡·视觉空间·前庭·本体·感统融合）
 
-<video src="./VR.gif" width="700" autoplay loop muted playsinline></video>
+![VR cognitive rehabilitation demo](./VR.gif?raw=true)
 
 ![Part2 Image](./image/image3.png)
 
