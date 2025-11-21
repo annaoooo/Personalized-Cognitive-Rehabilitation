@@ -46,7 +46,7 @@
 完整、高情感共鸣的音视频回忆故事（含亲友声音旁白 + 患者本人形象）
 
 #### 参考人物
-<img src="./AI_Story/man.jpg" width="200"/> <img src="./AI_Story/woman.jpg" width="200"/>
+<img src="./AI_Story/man.jpg" /> <img src="./AI_Story/woman.jpg" />
 
 #### 示例故事：公园散步的温馨回忆（10场景连续短视频）
 
